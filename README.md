@@ -1,21 +1,16 @@
 # Harbor Field: Monorepo · Cloudflare
 
-> **This is a template, not a repository.** Copy it out and prepare it before an eval (steps below).
-> Nothing here is deployed.
-
 A monorepo with three apps on **Cloudflare**, with preview links **public**. Static Vite +
 TypeScript, no framework. The page reads a live list from the shared Supabase test project.
 Row in the support matrix: impeccable-reviews#302.
 
 ## Deployment links
 
-Filled in at prep time.
-
 | App | Folder | Production | Preview gate |
 |---|---|---|---|
-| _app one_ | `apps/<app>` | _not deployed_ | no |
-| _app two_ | `apps/<app>` | _not deployed_ | no |
-| _app three_ | `apps/<app>` | _not deployed_ | no |
+| Indigo | `apps/indigo-brz` | https://harbor-field-4zb9-indigo-brz.pages.dev | no |
+| Juniper | `apps/juniper-d5q` | https://harbor-field-4zb9-juniper-d5q.pages.dev | no |
+| Agave | `apps/agave-zm9` | https://harbor-field-4zb9-agave-zm9.pages.dev | no |
 
 ## Names
 
